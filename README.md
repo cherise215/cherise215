@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Lecturer in Computer Vision at the U of Sheffield/Visiting research fellow at U of Oxford/Honorary research fellow at Imperial College London 
+- 💼 Lecturer in Computer Vision at the U of Sheffield/Honorary research fellow at Imperial College London 
 - 📫 Past: Post-Doctoral Researcher at the University of Oxford. Here are my [personal website](https://cherise215.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=gPuRZmgAAAAJ&hl=en&inst=1897686392822636494).
 
 - 📈  I have expertise in building robust, domain-generalizable machine-learning algorithms to facilitate medical image analysis. 
