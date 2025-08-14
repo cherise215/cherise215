@@ -7,7 +7,7 @@
 - 📫 Past: Post-Doctoral Researcher at the University of Oxford. Here are my [personal website](https://cherise215.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=gPuRZmgAAAAJ&hl=en&inst=1897686392822636494).
 
 - 📈  I have expertise in building robust, domain-generalizable machine-learning algorithms to facilitate medical image analysis. 
-- ✨  In the past five years, I have published ~30 papers with a Google citation of 2k+ with an h-index of 20. 
+- ✨  Since 2019, I have published ~40 papers with a Google citation of 3k+ with an h-index of 23. 
 - 🔭  I have won several top international medical image segmentation challenges!
 
 
